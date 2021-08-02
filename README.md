@@ -2,7 +2,7 @@
 
 Hello Dev's People!
 
-Im Dhayanna Penida Abo , an BSIS student [3rd year].
+Im Dhayanna<BSIS student
 
 Explore Git and GitHub Community
 
